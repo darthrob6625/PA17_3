@@ -48,7 +48,7 @@ The following table summarizes the classification models, presenting both their 
 | --- | --- | --- |
 | Logistic Regression | 90.6% | 90.7% |
 | K-Nearest Neighbors | 89.9%  | 89.0% | 
-| Decision Trees | 88.1% | 88.46% |
+| Decision Trees | 99.8% | - | -
 | Support Vector Machines | 90.0% | - |
 
 ✅ For the Logistic Regression model, the optimal regularization parameter (C) was identified as 0.1. However, model performance did not improve following hyperparameter tuning.
